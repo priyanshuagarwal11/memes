@@ -37,8 +37,6 @@ meme-generator/
 ## 📦 API Used
 https://meme-api.com/gimme
 
-yaml
-Copy code
 
 ---
 
